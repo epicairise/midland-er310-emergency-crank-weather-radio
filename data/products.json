@@ -1,0 +1,42 @@
+[
+  {
+    "position": 1,
+    "name": "Midland ER310 Emergency Crank Weather Radio",
+    "slug": "midland-er310-emergency-crank-weather-radio",
+    "description": "A reliable emergency radio with multiple power options and an SOS flashlight beacon, ideal for seniors seeking dependable communication during emergencies.",
+    "image": "https://epicairise.github.io/midland-er310-emergency-crank-weather-radio/media/midland-er310.jpg",
+    "data-link": "pending"
+  },
+  {
+    "position": 2,
+    "name": "Kaito KA500 5-Way Powered Emergency Radio",
+    "slug": "kaito-ka500-5-way-powered-emergency-radio",
+    "description": "Versatile emergency radio offering five power options and comprehensive band coverage, suitable for seniors requiring flexibility and ease of use.",
+    "image": "https://epicairise.github.io/kaito-ka500-5-way-powered-emergency-radio/media/kaito-ka500.jpg",
+    "data-link": "pending"
+  },
+  {
+    "position": 3,
+    "name": "Sangean MMR-88 AM/FM Weather Handcrank Emergency Radio",
+    "slug": "sangean-mmr-88-am-fm-weather-handcrank-emergency-radio",
+    "description": "Compact and user-friendly emergency radio with multiple charging methods, designed for seniors who prioritize simplicity and reliability.",
+    "image": "https://epicairise.github.io/sangean-mmr-88-am-fm-weather-handcrank-emergency-radio/media/sangean-mmr88.jpg",
+    "data-link": "pending"
+  },
+  {
+    "position": 4,
+    "name": "RunningSnail Emergency Hand Crank Radio",
+    "slug": "runningsnail-emergency-hand-crank-radio",
+    "description": "Affordable emergency radio with essential features, perfect for seniors needing a basic yet effective communication tool during emergencies.",
+    "image": "https://epicairise.github.io/runningsnail-emergency-hand-crank-radio/media/runningsnail-radio.jpg",
+    "data-link": "pending"
+  },
+  {
+    "position": 5,
+    "name": "Eton American Red Cross FRX3+ Emergency Radio",
+    "slug": "eton-american-red-cross-frx3-emergency-radio",
+    "description": "Official Red Cross emergency radio with multiple power options and smartphone charging capability, tailored for seniors seeking trusted and comprehensive emergency preparedness.",
+    "image": "https://epicairise.github.io/eton-american-red-cross-frx3-emergency-radio/media/eton-frx3.jpg",
+    "data-link": "pending"
+  }
+]
